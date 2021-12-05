@@ -1,0 +1,120 @@
+env:
+        TERM: xterm-256color
+window:
+  dimensions:
+    columns: 200
+    lines: 200
+  padding:
+    x: 5
+    y: 5
+  dynamic_padding: true
+
+  decorations: full
+
+font:
+  normal:
+    family: Anonymice Nerd Font Mono
+    style: Regular
+
+  bold:
+    family: Anonymice Nerd Font Mono
+    style: Bold
+
+  italic:
+    family: Anonymice Nerd Font Mono
+    style: Italic
+
+  bold_italic:
+    family: Anonymice Nerd Font Mono
+    style: Bold Italic
+  size: 8.0
+
+draw_bold_text_with_bright_colors: false
+
+dynamic_title: true
+
+cursor:
+  style: Underline
+
+  unfocused_hollow: true
+
+live_config_reload: true
+
+mouse:
+  hide_when_typing: true
+
+items:
+  - colors:
+      name: X::DotShare
+      author: crshd
+      primary:
+        background: "#151515"
+        foreground: "#D7D0C7"
+      cursor:
+        text: "#151515"
+        cursor: "#D7D0C7"
+      normal:
+        black: "#101010"
+        red: "#E84F4F"
+        green: "#B8D68C"
+        yellow: "#E1AA5D"
+        blue: "#7DC1CF"
+        magenta: "#9B64FB"
+        cyan: "#6D878D"
+        white: "#DDDDDD"
+      bright:
+        black: "#404040"
+        red: "#D23D3D"
+        green: "#A0CF5D"
+        yellow: "#F39D21"
+        blue: "#4E9FB1"
+        magenta: "#8542FF"
+        cyan: "#42717B"
+        white: "#DDDDDD"
+      dim:
+        black:   '#333333'
+        red:     '#f2777a'
+        green:   '#99cc99'
+        yellow:  '#ffcc66'
+        blue:    '#6699cc'
+        magenta: '#cc99cc'
+        cyan:    '#66cccc'
+        white:   '#dddddd'
+  - theme: X-dotshare
+colors:
+  name: Nudge
+  author: ""
+  primary:
+    background: "#000000"
+    foreground: "#ffffff"
+  cursor:
+    text: "#000000"
+    cursor: "#ffffff"
+  normal:
+    black: "#658280"
+    red: "#822f5d"
+    green: "#184a31"
+    yellow: "#9d4500"
+    blue: "#304465"
+    magenta: "#330801"
+    cyan: "#175552"
+    white: "#110005"
+  bright:
+    black: "#8ca8a6"
+    red: "#a24b76"
+    green: "#28634d"
+    yellow: "#9d5823"
+    blue: "#415c77"
+    magenta: "#532706"
+    cyan: "#3a6868"
+    white: "#330801"
+  dim:
+    black:   '#333333'
+    red:     '#f2777a'
+    green:   '#99cc99'
+    yellow:  '#ffcc66'
+    blue:    '#6699cc'
+    magenta: '#cc99cc'
+    cyan:    '#66cccc'
+    white:   '#dddddd'
+theme: Nudge

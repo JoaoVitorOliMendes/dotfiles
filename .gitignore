@@ -1,0 +1,15 @@
+#Ignore all
+
+/*
+
+#Whitelist
+
+!/i3
+!/neofetch
+!/nitrogen
+!/polybar
+!compton.conf
+!/alacritty
+!/backgrounds
+!/screenshots
+!.gitignore
