@@ -241,3 +241,5 @@ smart_borders on
 
 # Activate smart borders (only when there are effectively no gaps)
 smart_borders no_gaps
+
+exec --no-startup-id i3-msg 'workspace ; exec /usr/bin/keepassxc'
