@@ -27,6 +27,7 @@
     Cool tweaks:
       <ul>
         <li><em>Cmatrix</em></li>
+        <li><em>Cbonsai</em></li>
         <li><em>Pipes.sh</em></li>
         <li><em>Htop</em></li>
         <li><em>Cli-Visualizer</em></li>
