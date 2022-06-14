@@ -15,6 +15,7 @@ call plug#begin('~/.vim/plugged')
 	Plug 'famiu/nvim-reload'
         Plug 'jiangmiao/auto-pairs'
         Plug 'matze/vim-move'
+        Plug 'jdhao/whitespace.nvim'
 
 call plug#end()
 
@@ -113,3 +114,5 @@ set number relativenumber
 set shiftwidth=2
 set expandtab
 set softtabstop=2
+
+autocmd BufWritePost * :StripTrailingWhitespace

@@ -6,6 +6,7 @@
     "coc-json": ">=1.4.0",
     "coc-marketplace": ">=1.8.1",
     "coc-prettier": ">=1.1.24",
+    "coc-pyright": ">=1.1.194",
     "coc-snippets": ">=2.4.7",
     "coc-tsserver": ">=1.9.4",
     "coc-vimtex": ">=1.1.0",
