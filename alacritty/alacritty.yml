@@ -1,5 +1,5 @@
 env:
-        TERM: xterm-256color
+  TERM: xterm-256color
 window:
   dimensions:
     columns: 200
@@ -13,21 +13,21 @@ window:
 
 font:
   normal:
-    family: Anonymice Nerd Font Mono
+    family: JetBrains Mono Medium
     style: Regular
 
   bold:
-    family: Anonymice Nerd Font Mono
+    family: JetBrains Mono
     style: Bold
 
   italic:
-    family: Anonymice Nerd Font Mono
+    family: JetBrains Mono
     style: Italic
 
   bold_italic:
-    family: Anonymice Nerd Font Mono
+    family: JetBrains Mono
     style: Bold Italic
-  size: 8.0
+  size: 7.0
 
 draw_bold_text_with_bright_colors: false
 
@@ -72,17 +72,17 @@ items:
         cyan: "#42717B"
         white: "#DDDDDD"
       dim:
-        black:   '#333333'
-        red:     '#f2777a'
-        green:   '#99cc99'
-        yellow:  '#ffcc66'
-        blue:    '#6699cc'
+        black: '#333333'
+        red: '#f2777a'
+        green: '#99cc99'
+        yellow: '#ffcc66'
+        blue: '#6699cc'
         magenta: '#cc99cc'
-        cyan:    '#66cccc'
-        white:   '#dddddd'
+        cyan: '#66cccc'
+        white: '#dddddd'
   - theme: X-dotshare
 colors:
-  name: Nudge
+  name: Derp
   author: ""
   primary:
     background: "#000000"
@@ -91,30 +91,21 @@ colors:
     text: "#000000"
     cursor: "#ffffff"
   normal:
-    black: "#658280"
-    red: "#822f5d"
-    green: "#184a31"
-    yellow: "#9d4500"
-    blue: "#304465"
-    magenta: "#330801"
-    cyan: "#175552"
-    white: "#110005"
+    black: "#111111"
+    red: "#d36265"
+    green: "#aece91"
+    yellow: "#e7e18c"
+    blue: "#5297cf"
+    magenta: "#963c59"
+    cyan: "#5e7175"
+    white: "#bebebe"
   bright:
-    black: "#8ca8a6"
-    red: "#a24b76"
-    green: "#28634d"
-    yellow: "#9d5823"
-    blue: "#415c77"
-    magenta: "#532706"
-    cyan: "#3a6868"
-    white: "#330801"
-  dim:
-    black:   '#333333'
-    red:     '#f2777a'
-    green:   '#99cc99'
-    yellow:  '#ffcc66'
-    blue:    '#6699cc'
-    magenta: '#cc99cc'
-    cyan:    '#66cccc'
-    white:   '#dddddd'
-theme: Nudge
+    black: "#666666"
+    red: "#ef8171"
+    green: "#cfefb3"
+    yellow: "#fff796"
+    blue: "#74b8ef"
+    magenta: "#b85e7b"
+    cyan: "#a3babf"
+    white: "#ffffff"
+theme: Derp
