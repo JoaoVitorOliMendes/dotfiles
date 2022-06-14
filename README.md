@@ -41,7 +41,7 @@
 ##
 <h1>Screenshots:</h1>
 
-<img src="https://github.com/JoaoVitorOliMendes/dotfiles/blob/master/screenshots/greenKnight_01.png" />
+<img src="https://github.com/JoaoVitorOliMendes/dotfiles/blob/master/screenshots/Screenshot_2022-06-14_14-33-19.png" />
 <img src="https://github.com/JoaoVitorOliMendes/dotfiles/blob/master/screenshots/greenKnight_02.png" />
 <img src="https://github.com/JoaoVitorOliMendes/dotfiles/blob/master/screenshots/greenKnight_03.png" />
 
