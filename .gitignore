@@ -16,6 +16,7 @@
 !/nvim
 !/coc
 !.gitignore
+!/sharedConf
 
 node_modules
 coc-clangd-data
