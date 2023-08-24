@@ -16,3 +16,6 @@
 !/nvim
 !/coc
 !.gitignore
+
+node_modules
+coc-clangd-data
